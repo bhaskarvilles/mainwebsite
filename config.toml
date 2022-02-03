@@ -18,7 +18,7 @@ description = "Bhaskar's personal website"
 keywords = "blog,developer,personal"
 info = ["Full Stack DevSecOps", "Hacker"]
 avatarURL = "static/images/avathar.jpg"
-#gravatar = "bhaskar@parrotsec.in"
+gravatar = "bhaskarvilles@gmail.com"
 dateFormat = "January 2, 2006"
 since = 2019
 # Git Commit in Footer, uncomment the line below to enable it
