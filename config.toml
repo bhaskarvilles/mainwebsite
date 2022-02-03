@@ -17,8 +17,8 @@ author = "Bhaskar Ram"
 description = "Bhaskar's personal website"
 keywords = "blog,developer,personal"
 info = ["Full Stack DevSecOps", "Hacker"]
-avatarURL = "https://raw.githubusercontent.com/bhaskarvilles/bhaskar1/bhaskarvilles/files/avatar1.jpg"
-gravatar = "bhaskar@parrotsec.in"
+avatarURL = "images/avathar.jpg"
+#gravatar = "bhaskar@parrotsec.in"
 dateFormat = "January 2, 2006"
 since = 2019
 # Git Commit in Footer, uncomment the line below to enable it
