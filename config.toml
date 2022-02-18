@@ -16,7 +16,7 @@ author = "Bhaskar Ram"
 license = '<a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/">CC BY-SA-4.0</a>'
 description = "Bhaskar's personal website"
 keywords = "blog,developer,personal"
-info = ["Full Stack DevSecOps", "Hacker"]
+info = ["Full Stack DevSecOps", "Hacker", "Full-Stack Developer"]
 avatarURL = "https://s.gravatar.com/avatar/e3550e2583c71abaeb9af2a95efc2c80?s=80"
 gravatar = "bhaskarvilles@gmail.com"
 dateFormat = "January 2, 2006"
